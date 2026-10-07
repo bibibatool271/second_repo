@@ -1,2 +1,2 @@
-this is my first project
- this is my second pro
+This is my second repo
+my practice work
