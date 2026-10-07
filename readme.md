@@ -1,3 +1,4 @@
-# my first repostory
-this is my first project on git hub
-this project is about to change
+This is my second repo of github.
+# second_repo
+![project 5.jpeg](images/5.jpeg)
+
